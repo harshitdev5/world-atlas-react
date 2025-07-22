@@ -1,0 +1,21 @@
+[
+  {
+    "icon": "FaGithub",
+    "title": "Github",
+    "details": "/harshitdev5",
+    "link": "https://github.com/harshitdev5"
+    
+  },
+  {
+    "icon": "FaLinkedin",
+    "title": "Linkedin",
+    "details": "/devharshit",
+    "link": "https://linkedin.com/in/devharshit"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail me",
+    "details": "devharshit505@gmail.com",
+    "link": "mailto:devharshit505@gmail.com"
+  }
+]
